@@ -68,44 +68,38 @@
    background-color: chartreuse;
  }
  #Sec2Cont1{
-  width: 1050px;
+  width: 450px;
   height: 100px;
   background-color: black;
-  position: absolute;
-  left: 50px;
-  margin-top: 40px;
-  margin-right: 30px;
-  margin-left: 30px;
+  position: relative;
+  top: 50px;
+  left: 350px;
  }
  #Sec2Cont2{
-  width: 360px;
+  width: 350px;
   height: 250px;
   background-color: yellow;
   float: left;
-  top: 250px  ;
-  margin-left: 20px;
+  margin-left: 40px;
   margin-top: 200px;
-  margin-left: 30px;
  }
  #Sec2Cont3{
-  width: 360px;
+  width: 350px;
   height: 250px;
   background-color: azure;
   float: left;
-  top: 250px  ;
-  margin-left: 20px;
+  top: 250px;
+  margin-left: 40px;
   margin-top: 200px;
-  margin-left: 30px;
  }
  #Sec2Cont4{
-  width: 360px;
+  width: 350px;
   height: 250px;
   background-color: blueviolet;
   float: left;
-  top: 250px  ;
-  margin-left: 20px;
+  top: 250px;
+  margin-left: 40px;
   margin-top: 200px;
-  margin-left: 30px;  
  }
  /*************************************************** Seccion 3************************************/
  #sect3{
